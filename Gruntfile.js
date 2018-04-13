@@ -57,7 +57,8 @@ module.exports = function(grunt) {
         separator: ';',
       },
       app: {
-        src: ['app/js/**/*.js'],
+        src: [ 'node_modules/sn-components-api/src/componentManager.js'
+             , 'app/js/**/*.js' ],
         dest: 'dist/app.js',
       },
 

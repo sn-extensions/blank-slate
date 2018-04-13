@@ -1,0 +1,14 @@
+{
+  "identifier": "example.word-counter",
+  "name": "Word Counter",
+  "content_type": "SN|Component",
+  "area": "editor-stack",
+  "version": "1.0.0",
+  "description": "An example word counter.",
+  "url": "http://localhost:8000",
+  "download_url": "http://localhost:8000/example.zip",
+  "marketing_url": "",
+  "thumbnail_url": "",
+  "valid_until": "9999-12-31T00:00:00.000Z",
+  "latest_url": ""
+}
