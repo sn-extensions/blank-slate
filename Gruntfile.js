@@ -64,7 +64,7 @@ module.exports = function(grunt) {
       lib: {
         src: [
           'node_modules/angular/angular.js',
-          'bower_components/components-api/dist/dist.js'
+          'node_modules/sn-components-api/dist/dist.js'
         ],
         dest: 'dist/lib.js',
       },
